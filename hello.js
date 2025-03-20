@@ -1,4 +1,4 @@
-function hello(message) {
-  const name = "Godwin";
-  console.log("Hello World");
+function hello (message) {
+  console.log(`Hello ${message}`)
 }
+hello('Godwin');
